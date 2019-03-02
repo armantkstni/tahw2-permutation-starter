@@ -1,8 +1,8 @@
 # TA HW2 - Permutation (Recursion) - 40 Points
 
-[![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
+[![Grader Status](YOUR_GRADER_BADGEhttps://kntu-grader.herokuapp.com/minimal?repo=tahw2-permutation-starter&id=9725543
+)](https://kntu-grader.herokuapp.com/minimal?repo=tahw2-permutation-starter&id=9725543)
 
-YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<STUDENT_ID>
 
 
 # Assignment discription
